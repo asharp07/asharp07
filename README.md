@@ -1,4 +1,4 @@
-<a href="URL_REDIRECT" target="blank"><img align="center" src="URL_TO_YOUR_IMAGE" height="100" /></a>
+<p align="center"><a href="https://imgur.com/IQCbgPu"><img src="https://i.imgur.com/IQCbgPu.png" width="400" /></a></p>
 
 ### Hi, I'm Amanda Sharp! 👋
 
@@ -8,8 +8,12 @@ My research focuses are on Computational Biochemistry. I utilize computational t
 
 I am always trying to continue my growth in the field and my repositories will reflect that. I currently support a large research group (typically >15 undergraduate research students each semester), so that will also be reflected in my methodology and detail to how each script works and is ran.
 
-Find me elsewhere! :earth_americas:
-[![Twitter](https://cdn-icons-png.flaticon.com/512/124/124021.png)](https://twitter.com/biochem_amanda) [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png)](https://www.linkedin.com/in/amanda-sharp-6a227a127/)
+Find me elsewhere! :earth_americas: 
+
+
+<a href="https://twitter.com/biochem_amanda"><img src="https://user-images.githubusercontent.com/72985427/204578650-344544b4-172e-43ad-9e33-708893ef81ca.png" width="30"></a>
+<a href="https://www.linkedin.com/in/amanda-sharp-6a227a127/"><img src="https://www.oiml.org/en/ressources/logos/linkedin-icon-small.png/@@images/a6470d98-701d-4f7a-bc11-5c7407d83c13.png" width="30"></a>
+<a href="http://www.bevanbrownlab.com/"><img src="https://images.squarespace-cdn.com/content/v1/5ab01d59365f02fdeec78d48/1521491413095-VTQ8I0WD2G4GPJI9QZQF/MM+Lab+Logo.png?format=1500w" width="100"></a>
 
 <!--
 **asharp07/asharp07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

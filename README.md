@@ -2,11 +2,11 @@
 
 ### Hi, I'm Amanda Sharp! 👋
 
-I currently am a PhD Candidate at Virginia Tech in the <a href = "http://www.bevanbrownlab.com/">Brown Lab</a>. I am currently living in Roanoke, VA and am originally from Northern California. 
+I am a Computer Aided Drug Discovery Scientist with <a href = "https://southernresearch.org/">Southern Research</a>. I am currently living in Birmingham, AL. I recieved my PhD from Virginia Tech in May 2023 and am originally from Northern California. 
 
-My research focuses are on Computational Biochemistry. I utilize computational tools and computer programming to explore protein structure-function relationships. I've been lucky enough to work on a wide variety of different collaboration projects, supporting researchers all over the country with their research endevors. My primary focus is on difficult to drug interfaces and the application to cancer research. 
+My research focuses are on Computational Biochemistry. I utilize computational tools and computer programming to explore protein structure-function relationships. I've been lucky enough to work on a wide variety of different collaboration projects, supporting researchers all over the country with their research endevors while attending graduate school at Virginia Tech. My primary focus is on difficult to drug interfaces and the application to cancer research. 
 
-I am always trying to continue my growth in the field and my repositories will reflect that. I currently support a large research group (typically >15 undergraduate research students each semester), so that will also be reflected in my methodology and detail to how each script works and is ran.
+I am always trying to continue my growth in the field and my repositories will reflect that. In the past, I have supported a large research group (typically >15 undergraduate research students each semester), so that will also be reflected in my methodology and detail to how each script works and is ran.
 
 Find me elsewhere! :earth_americas: 
 

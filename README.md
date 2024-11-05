@@ -2,9 +2,9 @@
 
 ### Hi, I'm Amanda Sharp! 👋
 
-I am a Computer Aided Drug Discovery Scientist with <a href = "https://southernresearch.org/">Southern Research</a>. I am currently living in Birmingham, AL. I recieved my PhD from Virginia Tech in May 2023 and am originally from Northern California. 
+I am a Computational Chemist working in material science. I am currently living in Bridgewater, NJ. I recieved my PhD from Virginia Tech in May 2023 and am originally from Northern California. 
 
-My research focuses are on Computational Biochemistry. I utilize computational tools and computer programming to explore protein structure-function relationships. I've been lucky enough to work on a wide variety of different collaboration projects, supporting researchers all over the country with their research endevors while attending graduate school at Virginia Tech. My primary focus is on difficult to drug interfaces and the application to cancer research. 
+My research focuses are on Computational Chemistry. I utilize computational tools and computer programming to explore structure-function relationships for many different molecular types. I've been lucky enough to work on a wide variety of different collaboration projects, supporting researchers all over the country with their research endevors while attending graduate school at Virginia Tech. 
 
 I am always trying to continue my growth in the field and my repositories will reflect that. In the past, I have supported a large research group (typically >15 undergraduate research students each semester), so that will also be reflected in my methodology and detail to how each script works and is ran.
 
